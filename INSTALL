@@ -1,0 +1,9 @@
+Building Digicoin
+
+See doc/readme-qt.rst for instructions on building Digicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Digicoin.
+
+See doc/build-*.txt for instructions on building digicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Digicoin.
